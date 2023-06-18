@@ -1,0 +1,22 @@
+[
+    {
+      "logo": "Acount.png",
+      "name": "Account & Finance",
+      "jobs_available": "340 Jobs Available"
+    },
+    {
+      "logo": "ca.png",
+      "name": "Creative Design",
+      "jobs_available": "120+ Jobs Available"
+    },
+    {
+      "logo": "Marketing.png",
+      "name": "Marketing & Sales",
+      "jobs_available": "250 Jobs Available"
+    },
+    {
+      "logo": "en.png",
+      "name": "Engineering Job",
+      "jobs_available": "234 Jobs Available"
+    }
+  ]
